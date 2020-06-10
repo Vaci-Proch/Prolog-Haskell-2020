@@ -1,0 +1,48 @@
+Prvni kvadraticka rovnice: 1.0x^2 + 5.0x + 6.0
+Druha kvadraticka rovnice: 1.0x^2 + 7.0x + 6.0
+Diskriminant je 1.0
+Parada, mame alespon jedno reseni!
+Prvni rovnice ma 2 reseni
+Diskriminant je 25.0
+Parada, mame alespon jedno reseni!
+Druha rovnice ma 2 reseni
+Vysledek twoSolutions: [-3.0,-2.0,-6.0,-1.0]
+
+=== Zacatek druhy test ===
+mezihodnota 10
+mezihodnota 90
+mezihodnota 720
+mezihodnota 5040
+mezihodnota 30240
+mezihodnota 151200
+mezihodnota 604800
+mezihodnota 1814400
+mezihodnota 3628800
+Vysledek foldr: 3628800
+
+
+
+=== Začátek první test ===
+První kvadratická rovnice: 1.0x^2 + 5.0x + 6.0
+Druhá kvadratická rovnice: 1.0x^2 + 7.0x + 6.0
+Diskriminant je 1.0
+Parada, mame alespon jedno reseni!
+Prvni rovnice ma 2 reseni
+Diskriminant je 25.0
+Parada, mame alespon jedno reseni!
+Druha rovnice ma 2 reseni
+Vysledek twoSolutions: [-3.0,-2.0,-6.0,-1.0]
+
+=== Začátek druhý test ===
+konec seznamu
+mezihodnota 1
+mezihodnota 10
+mezihodnota 90
+mezihodnota 720
+mezihodnota 5040
+mezihodnota 30240
+mezihodnota 151200
+mezihodnota 604800
+mezihodnota 1814400
+mezihodnota 3628800
+Vysledek foldr: 3628800
